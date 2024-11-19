@@ -15,6 +15,10 @@ This project uses machine learning to accurately predict medical insurance costs
 
 This project is designed to predict the cost of medical insurance based on individual health and demographic data. The model is trained using various machine learning algorithms, and the results aim to provide insights for insurers, healthcare providers, and policymakers to better manage risk and allocate resources.
 
+![Prediction Image](https://raw.githubusercontent.com/aditiaherr/Medical-Insurance-Cost-Prediction/main/Prediction.png)
+
+![UI Screenshot](https://raw.githubusercontent.com/aditiaherr/Medical-Insurance-Cost-Prediction/main/UI.png)
+
 ### Key Objectives:
 - Predict insurance costs based on health data like age, BMI, smoking habits, etc.
 - Compare and evaluate multiple algorithms like Linear Regression, Decision Trees, and Random Forest for best performance.
